@@ -140,11 +140,6 @@ private fun Greeting(name: String) {
                     )
                 )
             }
-            /*OutlinedButton(
-                onClick = { expanded.value = !expanded.value }
-            ) {
-                Text(if (expanded.value) "Show less" else "Show more")
-            }*/
         }
     }
 }
